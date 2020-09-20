@@ -9,6 +9,7 @@
  - msvcrt
  - threading
  - os
+ - *IMPORTANT* Colors enabled in console through registry (download and run ![this](https://github.com/at-adityavikram/neptune/blob/master/enablecolor.reg) )
 ### Features
  - Can be resized!
  - SUpports Opening, saving and creating new document.
