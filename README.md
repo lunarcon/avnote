@@ -9,7 +9,7 @@
  - msvcrt
  - threading
  - os
- - *IMPORTANT* Colors enabled in console through registry (download and run ![this file](https://drive.google.com/file/d/1UxT_W_8vE_SWhUgg1AQMG8Q-J_Sw5t8I/view?usp=sharing) )
+ - *IMPORTANT* Colors enabled in console through registry (download and run  this file https://drive.google.com/file/d/1UxT_W_8vE_SWhUgg1AQMG8Q-J_Sw5t8I/view?usp=sharing )
 ### Features
  - Can be resized!
  - SUpports Opening, saving and creating new document.
