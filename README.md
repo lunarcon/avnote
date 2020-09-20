@@ -2,6 +2,13 @@
 ### GUI-Less Notepad? What?
 <img src="preview.png"/>
 
+### Requirements
+ - colorama
+ - sys
+ - time
+ - msvcrt
+ - threading
+ - os
 ### Features
  - Can be resized!
  - SUpports Opening, saving and creating new document.
