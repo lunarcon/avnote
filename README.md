@@ -1,5 +1,5 @@
 # avnote
-### GUI-Less Notepad? What?
+### It's a bird! - it's a plane? Its a GUI-less notepad
 <img src="preview.png"/>
 
 ### Requirements
